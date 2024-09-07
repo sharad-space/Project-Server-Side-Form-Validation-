@@ -4,6 +4,7 @@ This project demonstrates how to implement Server-Side Form Validation using Thy
 It covers validation of form inputs using Spring's @Valid annotation and BindingResult, along with the Thymeleaf template engine for error handling.
 
 Features:
+
 -> Form Validation: Validate user input on the server side using Java annotations.
 -> Error Handling: Display validation error messages in Thymeleaf templates.
 -> Spring Boot Integration: Easy setup for form validation and error display in Spring Boot.
